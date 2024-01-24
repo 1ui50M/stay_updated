@@ -1,0 +1,111 @@
+body {
+  display: flex;
+  background-color: hsl(234, 29%, 20%);
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+.contenido {
+  display: flex;
+  width: 700px;
+  height: 490px;
+  background-color: white;
+  border-radius: 26px;
+}
+.Letras {
+  width: 350px;
+  height: 490px;
+}
+.illustration-sign-up-desktop {
+  width: 350px;
+  height: 450px;
+  margin: 20px 0px;
+}
+.titulo {
+  font-family: "Roboto", sans-serif;
+  color: hsl(234, 29%, 20%);
+  margin: 70px 15px 12px 45px;
+  font-size: 40px;
+}
+.parrafo {
+  margin: 8px 4px 18px 45px;
+  font-size: 12px;
+  font-family: "Roboto", sans-serif;
+  line-height: 1.5;
+  color: hsl(234, 29%, 20%);
+}
+.punto_1 {
+  display: flex;
+  align-items: center;
+}
+.product {
+  font-size: 12px;
+  font-family: "Roboto", sans-serif;
+  color: hsl(234, 29%, 20%);
+  margin: 8px 0px 0px 14px;
+}
+.icon-list {
+  margin: 8px 0px 0px 45px;
+  width: 18px;
+  height: 18px;
+}
+.punto_2 {
+  display: flex;
+  align-items: center;
+}
+.Updates {
+  font-size: 12px;
+  font-family: "Roboto", sans-serif;
+  color: hsl(234, 29%, 20%);
+  margin: 8px 0px 0px 14px;
+}
+.punto_3 {
+  display: flex;
+  align-items: center;
+}
+.more {
+  font-size: 12px;
+  font-family: "Roboto", sans-serif;
+  color: hsl(234, 29%, 20%);
+  margin: 9px 0px 0px 14px;
+}
+.adress {
+  color: hsl(234, 29%, 20%);
+  font-family: "Roboto", sans-serif;
+  margin: 32px 0px 0px 45px;
+  font-size: 10px;
+}
+.email {
+  display: flex;
+  width: 270px;
+  height: 38px;
+  border: 1px solid hsl(231, 7%, 60%);
+  margin: 12px 0px 0px 45px;
+  align-items: center;
+  border-radius: 8px;
+}
+.recuadro {
+  color: hsl(231, 7%, 60%);
+  font-family: "Roboto", sans-serif;
+  font-weight: lighter;
+  margin: 0px 18px;
+  font-size: 12px;
+}
+.suscribe {
+  display: flex;
+  width: 270px;
+  height: 38px;
+  border: 1px solid hsl(231, 7%, 60%);
+  margin: 12px 0px 0px 45px;
+  align-items: center;
+  border-radius: 8px;
+  background-color: hsl(234, 29%, 20%);
+  justify-content: center;
+}
+.newsletter {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  margin: 0px 18px;
+  font-size: 12px;
+  font-weight: 600;
+}
